@@ -1,0 +1,4 @@
+﻿  main.cpp
+f:\users\chao ji\documents\visual studio 2015\projects\gpahomework1\gpahomework1\main.cpp(95): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+f:\users\chao ji\documents\visual studio 2015\projects\gpahomework1\gpahomework1\main.cpp(144): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+  GpaHomework1.vcxproj -> f:\users\chao ji\documents\visual studio 2015\Projects\GpaHomework1\Debug\GpaHomework1.exe
